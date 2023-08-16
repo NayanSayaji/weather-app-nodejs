@@ -1,0 +1,16 @@
+{
+  "name": "weatherappnodejs",
+  "version": "1.0.0",
+  "description": "basic weather app using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nayan Sayaji",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "requests": "^0.3.0"
+  }
+}
